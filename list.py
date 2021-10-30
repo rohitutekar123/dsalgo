@@ -31,3 +31,6 @@ List2 = ['For', 'Geeks']
 List.append(List2)
 print("\nList after Addition of a List: ")
 print(List)
+
+
+print(List[1:])
